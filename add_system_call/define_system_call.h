@@ -1,0 +1,1 @@
+asmlinkage long sys_helloworld(char *msg);
